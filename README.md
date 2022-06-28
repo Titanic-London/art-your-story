@@ -5,6 +5,8 @@ application up and running.
 
 Things you may want to cover:
 
+* Testing Jack's connection!
+
 * Ruby version
 
 * System dependencies
