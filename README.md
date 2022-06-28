@@ -11,6 +11,8 @@ Things you may want to cover:
 
 * Testing Saki's connection!
 
+* Testing Boram's connection!
+
 * Ruby version
 
 * System dependencies
