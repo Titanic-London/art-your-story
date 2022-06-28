@@ -9,6 +9,8 @@ Things you may want to cover:
 
 * Testing Dorothy's connection!
 
+* Testing Saki's connection!
+
 * Ruby version
 
 * System dependencies
