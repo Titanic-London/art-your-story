@@ -215,11 +215,7 @@ GEM
     zeitwerk (2.6.0)
 
 PLATFORMS
-<<<<<<< HEAD
   x86_64-darwin-21
-=======
-  arm64-darwin-21
->>>>>>> e89beb93bf93a585b9f45236da155cab87650ca7
 
 DEPENDENCIES
   bootsnap
